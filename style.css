@@ -50,6 +50,7 @@ body {
     border-radius: 30px;
     overflow: hidden;
     box-shadow: 3px 25px 50px var(--pale-blue);
+    margin: 20px 0 20px 0;
 }
 
 .left{
