@@ -215,7 +215,7 @@ body {
     background: linear-gradient(to bottom, var(--violet-blue), var(--light-slate-blue));
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 750px){
     .card{
         display: flex;
         flex-direction: column;
